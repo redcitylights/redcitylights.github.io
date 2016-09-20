@@ -1,0 +1,13 @@
+Package: com.redcitylights.Ruby
+Version: 1.9.1
+Architecture: iphoneos-arm
+Maintainer: redcitylights <peptocider@icloud.com>
+Filename: /Ruby.deb
+Size: 3777610
+MD5sum: b0e13038c105d43d79d851f80066ddd8
+SHA1: b65e50d1fd493309fc8d1137e73a101bab788c1c
+SHA256: dd112a2d654fdcf5e3cd6c62be3d63d715b349f8d4758b4ef77d00c5e7640a76
+Section: Tweaks
+Description: A test teak for my repo
+Author: redcitylights <ythorses@icloud.com>
+Name: Tweakname
